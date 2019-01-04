@@ -8,24 +8,36 @@
 
 /* Begin PBXBuildFile section */
 		F0242A1521DFF85200AD7C37 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = F0242A1421DFF85200AD7C37 /* AppDelegate.swift */; };
-		F0242A1721DFF85200AD7C37 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = F0242A1621DFF85200AD7C37 /* ViewController.swift */; };
 		F0242A1A21DFF85200AD7C37 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = F0242A1821DFF85200AD7C37 /* Main.storyboard */; };
 		F0242A1C21DFF86300AD7C37 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = F0242A1B21DFF86300AD7C37 /* Assets.xcassets */; };
 		F0242A1F21DFF86300AD7C37 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = F0242A1D21DFF86300AD7C37 /* LaunchScreen.storyboard */; };
 		F0242A3121DFF96100AD7C37 /* DataViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = F0242A2F21DFF96000AD7C37 /* DataViewController.swift */; };
 		F0242A3221DFF96100AD7C37 /* BucketItemCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = F0242A3021DFF96000AD7C37 /* BucketItemCell.swift */; };
+		F0242A3521DFFACF00AD7C37 /* BucketItem.swift in Sources */ = {isa = PBXBuildFile; fileRef = F0242A3421DFFACF00AD7C37 /* BucketItem.swift */; };
+		F0242A3721DFFB0F00AD7C37 /* AlgorithmViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = F0242A3621DFFB0F00AD7C37 /* AlgorithmViewController.swift */; };
+		F0242A3921DFFB2C00AD7C37 /* AbstractionViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = F0242A3821DFFB2C00AD7C37 /* AbstractionViewController.swift */; };
+		F0242A3C21DFFBBA00AD7C37 /* ArtCollectionViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = F0242A3A21DFFBBA00AD7C37 /* ArtCollectionViewController.swift */; };
+		F0242A3D21DFFBBA00AD7C37 /* ArtViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = F0242A3B21DFFBBA00AD7C37 /* ArtViewController.swift */; };
+		F0242A4021DFFBF700AD7C37 /* ArtCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = F0242A3E21DFFBF700AD7C37 /* ArtCell.swift */; };
+		F0242A4121DFFBF700AD7C37 /* DrawingView.swift in Sources */ = {isa = PBXBuildFile; fileRef = F0242A3F21DFFBF700AD7C37 /* DrawingView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
 		F0242A1121DFF85200AD7C37 /* MegaProject.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = MegaProject.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		F0242A1421DFF85200AD7C37 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
-		F0242A1621DFF85200AD7C37 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
 		F0242A1921DFF85200AD7C37 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		F0242A1B21DFF86300AD7C37 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		F0242A1E21DFF86300AD7C37 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		F0242A2021DFF86300AD7C37 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		F0242A2F21DFF96000AD7C37 /* DataViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = DataViewController.swift; sourceTree = "<group>"; };
 		F0242A3021DFF96000AD7C37 /* BucketItemCell.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = BucketItemCell.swift; sourceTree = "<group>"; };
+		F0242A3421DFFACF00AD7C37 /* BucketItem.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = BucketItem.swift; sourceTree = "<group>"; };
+		F0242A3621DFFB0F00AD7C37 /* AlgorithmViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = AlgorithmViewController.swift; sourceTree = "<group>"; };
+		F0242A3821DFFB2C00AD7C37 /* AbstractionViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = AbstractionViewController.swift; sourceTree = "<group>"; };
+		F0242A3A21DFFBBA00AD7C37 /* ArtCollectionViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ArtCollectionViewController.swift; sourceTree = "<group>"; };
+		F0242A3B21DFFBBA00AD7C37 /* ArtViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ArtViewController.swift; sourceTree = "<group>"; };
+		F0242A3E21DFFBF700AD7C37 /* ArtCell.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ArtCell.swift; sourceTree = "<group>"; };
+		F0242A3F21DFFBF700AD7C37 /* DrawingView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = DrawingView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,6 +70,7 @@
 		F0242A1321DFF85200AD7C37 /* MegaProject */ = {
 			isa = PBXGroup;
 			children = (
+				F0242A3321DFFA5300AD7C37 /* Model */,
 				F0242A2621DFF89400AD7C37 /* Resources */,
 				F0242A2721DFF8A000AD7C37 /* Controller */,
 				F0242A2821DFF8BE00AD7C37 /* View */,
@@ -82,7 +95,6 @@
 				F0242A2B21DFF8E500AD7C37 /* Algorithm */,
 				F0242A2A21DFF8DC00AD7C37 /* Abstraction */,
 				F0242A2921DFF8D100AD7C37 /* Creativity */,
-				F0242A1621DFF85200AD7C37 /* ViewController.swift */,
 			);
 			path = Controller;
 			sourceTree = "<group>";
@@ -90,6 +102,8 @@
 		F0242A2821DFF8BE00AD7C37 /* View */ = {
 			isa = PBXGroup;
 			children = (
+				F0242A3E21DFFBF700AD7C37 /* ArtCell.swift */,
+				F0242A3F21DFFBF700AD7C37 /* DrawingView.swift */,
 				F0242A1821DFF85200AD7C37 /* Main.storyboard */,
 				F0242A1D21DFF86300AD7C37 /* LaunchScreen.storyboard */,
 			);
@@ -99,6 +113,8 @@
 		F0242A2921DFF8D100AD7C37 /* Creativity */ = {
 			isa = PBXGroup;
 			children = (
+				F0242A3A21DFFBBA00AD7C37 /* ArtCollectionViewController.swift */,
+				F0242A3B21DFFBBA00AD7C37 /* ArtViewController.swift */,
 			);
 			path = Creativity;
 			sourceTree = "<group>";
@@ -106,6 +122,7 @@
 		F0242A2A21DFF8DC00AD7C37 /* Abstraction */ = {
 			isa = PBXGroup;
 			children = (
+				F0242A3821DFFB2C00AD7C37 /* AbstractionViewController.swift */,
 			);
 			path = Abstraction;
 			sourceTree = "<group>";
@@ -113,6 +130,7 @@
 		F0242A2B21DFF8E500AD7C37 /* Algorithm */ = {
 			isa = PBXGroup;
 			children = (
+				F0242A3621DFFB0F00AD7C37 /* AlgorithmViewController.swift */,
 			);
 			path = Algorithm;
 			sourceTree = "<group>";
@@ -124,6 +142,14 @@
 				F0242A2F21DFF96000AD7C37 /* DataViewController.swift */,
 			);
 			path = Data;
+			sourceTree = "<group>";
+		};
+		F0242A3321DFFA5300AD7C37 /* Model */ = {
+			isa = PBXGroup;
+			children = (
+				F0242A3421DFFACF00AD7C37 /* BucketItem.swift */,
+			);
+			path = Model;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -198,9 +224,15 @@
 			buildActionMask = 2147483647;
 			files = (
 				F0242A3221DFF96100AD7C37 /* BucketItemCell.swift in Sources */,
-				F0242A1721DFF85200AD7C37 /* ViewController.swift in Sources */,
+				F0242A3C21DFFBBA00AD7C37 /* ArtCollectionViewController.swift in Sources */,
+				F0242A4021DFFBF700AD7C37 /* ArtCell.swift in Sources */,
+				F0242A3D21DFFBBA00AD7C37 /* ArtViewController.swift in Sources */,
 				F0242A3121DFF96100AD7C37 /* DataViewController.swift in Sources */,
+				F0242A3521DFFACF00AD7C37 /* BucketItem.swift in Sources */,
+				F0242A3721DFFB0F00AD7C37 /* AlgorithmViewController.swift in Sources */,
+				F0242A4121DFFBF700AD7C37 /* DrawingView.swift in Sources */,
 				F0242A1521DFF85200AD7C37 /* AppDelegate.swift in Sources */,
+				F0242A3921DFFB2C00AD7C37 /* AbstractionViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
