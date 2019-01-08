@@ -432,11 +432,11 @@
         </scene>
     </scenes>
     <resources>
-        <image name="BinaryCode" width="16" height="16"/>
-        <image name="BlockCode" width="16" height="16"/>
-        <image name="LogicalGate" width="16" height="16"/>
-        <image name="ObjectCode" width="16" height="16"/>
-        <image name="SwiftCode" width="16" height="16"/>
-        <image name="swiftSample" width="16" height="16"/>
+        <image name="BinaryCode" width="1920" height="1080"/>
+        <image name="BlockCode" width="309" height="228"/>
+        <image name="LogicalGate" width="1200" height="569"/>
+        <image name="ObjectCode" width="313" height="308"/>
+        <image name="SwiftCode" width="515" height="395"/>
+        <image name="swiftSample" width="1248" height="1244"/>
     </resources>
 </document>
