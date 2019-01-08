@@ -20,6 +20,7 @@
 		F0242A3D21DFFBBA00AD7C37 /* ArtViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = F0242A3B21DFFBBA00AD7C37 /* ArtViewController.swift */; };
 		F0242A4021DFFBF700AD7C37 /* ArtCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = F0242A3E21DFFBF700AD7C37 /* ArtCell.swift */; };
 		F0242A4121DFFBF700AD7C37 /* DrawingView.swift in Sources */ = {isa = PBXBuildFile; fileRef = F0242A3F21DFFBF700AD7C37 /* DrawingView.swift */; };
+		F0EBE05021E5338500C2F36A /* MenuViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = F0EBE04F21E5338500C2F36A /* MenuViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -38,6 +39,7 @@
 		F0242A3B21DFFBBA00AD7C37 /* ArtViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ArtViewController.swift; sourceTree = "<group>"; };
 		F0242A3E21DFFBF700AD7C37 /* ArtCell.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ArtCell.swift; sourceTree = "<group>"; };
 		F0242A3F21DFFBF700AD7C37 /* DrawingView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = DrawingView.swift; sourceTree = "<group>"; };
+		F0EBE04F21E5338500C2F36A /* MenuViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MenuViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -95,6 +97,7 @@
 				F0242A2B21DFF8E500AD7C37 /* Algorithm */,
 				F0242A2A21DFF8DC00AD7C37 /* Abstraction */,
 				F0242A2921DFF8D100AD7C37 /* Creativity */,
+				F0EBE04F21E5338500C2F36A /* MenuViewController.swift */,
 			);
 			path = Controller;
 			sourceTree = "<group>";
@@ -227,6 +230,7 @@
 				F0242A3C21DFFBBA00AD7C37 /* ArtCollectionViewController.swift in Sources */,
 				F0242A4021DFFBF700AD7C37 /* ArtCell.swift in Sources */,
 				F0242A3D21DFFBBA00AD7C37 /* ArtViewController.swift in Sources */,
+				F0EBE05021E5338500C2F36A /* MenuViewController.swift in Sources */,
 				F0242A3121DFF96100AD7C37 /* DataViewController.swift in Sources */,
 				F0242A3521DFFACF00AD7C37 /* BucketItem.swift in Sources */,
 				F0242A3721DFFB0F00AD7C37 /* AlgorithmViewController.swift in Sources */,
